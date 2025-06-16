@@ -31,8 +31,8 @@ public class Drive : MonoBehaviour
             moveInput = -1;
 
         // Apply steering and movement
-        float steerAmount = steerInput * steerSpeed;
-        float moveAmount = moveInput * moveSpeed;
+        float steerAmount = steerInput * steerSpeed * Time.deltaTime;
+        float moveAmount = moveInput * moveSpeed * Time.deltaTime;
         transform.Rotate(0, 0, -steerAmount);
         transform.Translate(0, moveAmount, 0);
     }
