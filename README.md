@@ -57,14 +57,16 @@ A top‑down car driving game where you play as a delivery driver! Pick up packa
 
 ```
 Delivery-Driver/
-├─ Assets/
-│  ├─ Scenes/
-│  │  └─ SampleScene.unity
-│  ├─ Scripts/
-│  │  └─ Drive.cs
-│  └─ ...sprites, prefabs, etc.
-├─ ProjectSettings/
-├─ Packages/
+├─ My project/
+  ├─ Assets/
+  │  ├─ Scenes/
+  │  │  └─ SampleScene.unity
+  │  ├─ Scripts/
+  │  │  └─ Drive.cs
+  |  |  └─ Delivery.cs
+  │  └─ ...sprites, prefabs, etc.
+  ├─ ProjectSettings/
+  ├─ Packages/
 └─ README.md
 ```
 
