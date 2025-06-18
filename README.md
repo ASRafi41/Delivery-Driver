@@ -83,3 +83,4 @@ Delivery-Driver/
 
 - Unity Game Engine  
 - C# Programming Language  
+- Unity's Built‑in Physics System (Rigidbody2D, Colliders, Triggers)
