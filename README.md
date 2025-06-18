@@ -66,8 +66,7 @@ Delivery-Driver/
   |  |  └─ Delivery.cs
   │  └─ ...sprites, prefabs, etc.
   ├─ ProjectSettings/
-  ├─ Packages/
-└─ README.md
+  ├─ Packages
 ```
 
 ---
